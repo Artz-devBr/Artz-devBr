@@ -22,7 +22,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
-[![Linkedin: Arthur](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/arthur-pedro-672597260)](www.linkedin.com/in/arthur-pedro-672597260)
+[![Linkedin: Arthur](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/arthur-pedro-672597260)](www.linkedin.com/in/arthur-pedro-672597260) www.linkedin.com/in/arthur-pedro-672597260
 <br><br>
 
 
